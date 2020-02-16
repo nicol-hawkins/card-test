@@ -1,0 +1,19 @@
+.App {
+    max-width: 68em;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 2em;
+    opacity: 1;
+    filter: none;
+}
+
+
+.Card {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 5px;
+    align-items: end;
+    position: relative;
+    box-sizing: border-box;
+    
+  }
