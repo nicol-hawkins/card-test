@@ -58,8 +58,6 @@ class AddCard extends Component {
             onChange={this.onChangeContent}
           />
 
-        <br />
-
         <button onClick={this.submit}>Add to project</button>
       </div>
 

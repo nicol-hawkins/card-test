@@ -24,10 +24,7 @@ h4 {
 
 .card--show {
   display: block;
-  border-top-left-radius: 15px;
-  border-top-right-radius: 15px;
-  border-bottom-left-radius: 15px;
-  border-bottom-right-radius: 15px;
+  border-radius: 15px 15px 15px 15px;
   width: 230px;
   height: 250px;
   background-color: white;
@@ -39,7 +36,7 @@ h4 {
   overflow: hidden;
   transition: height .5s,
               padding .5s,
-              min-height .5s;       
+              min-height .5s;
 }
 
 .card:nth-child(odd) {
