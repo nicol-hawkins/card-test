@@ -5,7 +5,7 @@
   "homepage": "./",
   "dependencies": {
     "kc-react-widgets": "^1.0.5",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "16.9.0",
     "react-dom": "16.9.0",
     "react-highlight": "^0.12.0",
